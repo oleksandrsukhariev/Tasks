@@ -1,0 +1,6 @@
+c:\users\aasuk\onedrive\документы\visual studio 2013\Projects\Chapter2Projects\MyGenericCollection\bin\Debug\MyGenericCollection.exe.config
+c:\users\aasuk\onedrive\документы\visual studio 2013\Projects\Chapter2Projects\MyGenericCollection\bin\Debug\MyGenericCollection.exe
+c:\users\aasuk\onedrive\документы\visual studio 2013\Projects\Chapter2Projects\MyGenericCollection\bin\Debug\MyGenericCollection.pdb
+c:\users\aasuk\onedrive\документы\visual studio 2013\Projects\Chapter2Projects\MyGenericCollection\obj\Debug\MyGenericCollection.csprojResolveAssemblyReference.cache
+c:\users\aasuk\onedrive\документы\visual studio 2013\Projects\Chapter2Projects\MyGenericCollection\obj\Debug\MyGenericCollection.exe
+c:\users\aasuk\onedrive\документы\visual studio 2013\Projects\Chapter2Projects\MyGenericCollection\obj\Debug\MyGenericCollection.pdb

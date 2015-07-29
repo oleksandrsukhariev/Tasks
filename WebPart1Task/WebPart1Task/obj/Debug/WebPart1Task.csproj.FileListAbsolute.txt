@@ -1,0 +1,6 @@
+c:\users\aasuk\onedrive\документы\visual studio 2013\Projects\WebPart1Task\WebPart1Task\bin\WebPart1Task.dll.config
+c:\users\aasuk\onedrive\документы\visual studio 2013\Projects\WebPart1Task\WebPart1Task\bin\WebPart1Task.dll
+c:\users\aasuk\onedrive\документы\visual studio 2013\Projects\WebPart1Task\WebPart1Task\bin\WebPart1Task.pdb
+c:\users\aasuk\onedrive\документы\visual studio 2013\Projects\WebPart1Task\WebPart1Task\obj\Debug\WebPart1Task.dll
+c:\users\aasuk\onedrive\документы\visual studio 2013\Projects\WebPart1Task\WebPart1Task\obj\Debug\WebPart1Task.pdb
+c:\users\aasuk\onedrive\документы\visual studio 2013\Projects\WebPart1Task\WebPart1Task\obj\Debug\WebPart1Task.csprojResolveAssemblyReference.cache

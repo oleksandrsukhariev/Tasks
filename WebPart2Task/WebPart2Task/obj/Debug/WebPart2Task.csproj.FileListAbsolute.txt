@@ -1,0 +1,6 @@
+C:\Users\aasuk\OneDrive\Документы\Visual Studio 2013\Projects\WebPart2Task\WebPart2Task\bin\WebPart2Task.dll.config
+C:\Users\aasuk\OneDrive\Документы\Visual Studio 2013\Projects\WebPart2Task\WebPart2Task\bin\WebPart2Task.dll
+C:\Users\aasuk\OneDrive\Документы\Visual Studio 2013\Projects\WebPart2Task\WebPart2Task\bin\WebPart2Task.pdb
+C:\Users\aasuk\OneDrive\Документы\Visual Studio 2013\Projects\WebPart2Task\WebPart2Task\obj\Debug\WebPart2Task.dll
+C:\Users\aasuk\OneDrive\Документы\Visual Studio 2013\Projects\WebPart2Task\WebPart2Task\obj\Debug\WebPart2Task.pdb
+C:\Users\aasuk\onedrive\документы\visual studio 2013\Projects\WebPart2Task\WebPart2Task\obj\Debug\WebPart2Task.csprojResolveAssemblyReference.cache

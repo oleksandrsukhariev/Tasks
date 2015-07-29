@@ -1,0 +1,5 @@
+c:\users\aasuk\onedrive\документы\visual studio 2013\Projects\Chapter2Projects\ListAndArraylistSpeed\bin\Debug\ListAndArraylistSpeed.exe.config
+c:\users\aasuk\onedrive\документы\visual studio 2013\Projects\Chapter2Projects\ListAndArraylistSpeed\bin\Debug\ListAndArraylistSpeed.exe
+c:\users\aasuk\onedrive\документы\visual studio 2013\Projects\Chapter2Projects\ListAndArraylistSpeed\bin\Debug\ListAndArraylistSpeed.pdb
+c:\users\aasuk\onedrive\документы\visual studio 2013\Projects\Chapter2Projects\ListAndArraylistSpeed\obj\Debug\ListAndArraylistSpeed.exe
+c:\users\aasuk\onedrive\документы\visual studio 2013\Projects\Chapter2Projects\ListAndArraylistSpeed\obj\Debug\ListAndArraylistSpeed.pdb

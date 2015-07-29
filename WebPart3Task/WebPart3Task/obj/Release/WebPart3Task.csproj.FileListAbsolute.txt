@@ -1,0 +1,5 @@
+c:\users\aasuk\onedrive\документы\visual studio 2013\Projects\WebPart3Task\WebPart3Task\bin\WebPart3Task.dll.config
+c:\users\aasuk\onedrive\документы\visual studio 2013\Projects\WebPart3Task\WebPart3Task\bin\WebPart3Task.dll
+c:\users\aasuk\onedrive\документы\visual studio 2013\Projects\WebPart3Task\WebPart3Task\bin\WebPart3Task.pdb
+c:\users\aasuk\onedrive\документы\visual studio 2013\Projects\WebPart3Task\WebPart3Task\obj\Release\WebPart3Task.dll
+c:\users\aasuk\onedrive\документы\visual studio 2013\Projects\WebPart3Task\WebPart3Task\obj\Release\WebPart3Task.pdb

@@ -1,0 +1,6 @@
+D:\Deploy\Chapter3PracticalTask\Chapter3PracticalTask\bin\Debug\Chapter3PracticalTask.exe.config
+D:\Deploy\Chapter3PracticalTask\Chapter3PracticalTask\bin\Debug\Chapter3PracticalTask.exe
+D:\Deploy\Chapter3PracticalTask\Chapter3PracticalTask\bin\Debug\Chapter3PracticalTask.pdb
+D:\Deploy\Chapter3PracticalTask\Chapter3PracticalTask\obj\Debug\Chapter3PracticalTask.csprojResolveAssemblyReference.cache
+D:\Deploy\Chapter3PracticalTask\Chapter3PracticalTask\obj\Debug\Chapter3PracticalTask.exe
+D:\Deploy\Chapter3PracticalTask\Chapter3PracticalTask\obj\Debug\Chapter3PracticalTask.pdb

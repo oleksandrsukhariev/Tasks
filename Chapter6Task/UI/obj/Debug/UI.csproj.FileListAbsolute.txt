@@ -1,0 +1,26 @@
+C:\Users\aasuk\OneDrive\Документы\Visual Studio 2013\Projects\Chapter6Task\UI\bin\Debug\UI.exe.config
+C:\Users\aasuk\OneDrive\Документы\Visual Studio 2013\Projects\Chapter6Task\UI\bin\Debug\UI.exe
+C:\Users\aasuk\OneDrive\Документы\Visual Studio 2013\Projects\Chapter6Task\UI\bin\Debug\UI.pdb
+C:\Users\aasuk\OneDrive\Документы\Visual Studio 2013\Projects\Chapter6Task\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\aasuk\OneDrive\Документы\Visual Studio 2013\Projects\Chapter6Task\UI\obj\Debug\UI.Form1.resources
+C:\Users\aasuk\OneDrive\Документы\Visual Studio 2013\Projects\Chapter6Task\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\aasuk\OneDrive\Документы\Visual Studio 2013\Projects\Chapter6Task\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\aasuk\OneDrive\Документы\Visual Studio 2013\Projects\Chapter6Task\UI\obj\Debug\UI.exe
+C:\Users\aasuk\OneDrive\Документы\Visual Studio 2013\Projects\Chapter6Task\UI\obj\Debug\UI.pdb
+D:\projects\Chapter6Task\UI\bin\Debug\UI.exe.config
+D:\projects\Chapter6Task\UI\obj\Debug\UI.exe
+D:\projects\Chapter6Task\UI\obj\Debug\UI.pdb
+D:\projects\Chapter6Task\UI\bin\Debug\UI.exe
+D:\projects\Chapter6Task\UI\bin\Debug\UI.pdb
+D:\projects\Chapter6Task\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\projects\Chapter6Task\UI\obj\Debug\UI.Form1.resources
+D:\projects\Chapter6Task\UI\obj\Debug\UI.Properties.Resources.resources
+D:\projects\Chapter6Task\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+D:\projects\Chapter6Task\UI\bin\Debug\Core.dll
+D:\projects\Chapter6Task\UI\bin\Debug\Core.pdb
+D:\New folder\Chapter6Task\UI\bin\Debug\UI.exe.config
+D:\New folder\Chapter6Task\UI\obj\Debug\UI.exe
+D:\New folder\Chapter6Task\UI\obj\Debug\UI.pdb
+D:\Deploy\Chapter6Task\UI\bin\Debug\UI.exe.config
+D:\Deploy\Chapter6Task\UI\obj\Debug\UI.exe
+D:\Deploy\Chapter6Task\UI\obj\Debug\UI.pdb

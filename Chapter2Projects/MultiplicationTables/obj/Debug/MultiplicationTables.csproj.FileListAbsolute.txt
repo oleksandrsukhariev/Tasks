@@ -1,0 +1,6 @@
+c:\users\aasuk\onedrive\документы\visual studio 2013\Projects\Chapter2Projects\MultiplicationTables\bin\Debug\MultiplicationTables.exe.config
+c:\users\aasuk\onedrive\документы\visual studio 2013\Projects\Chapter2Projects\MultiplicationTables\bin\Debug\MultiplicationTables.exe
+c:\users\aasuk\onedrive\документы\visual studio 2013\Projects\Chapter2Projects\MultiplicationTables\bin\Debug\MultiplicationTables.pdb
+c:\users\aasuk\onedrive\документы\visual studio 2013\Projects\Chapter2Projects\MultiplicationTables\obj\Debug\MultiplicationTables.csprojResolveAssemblyReference.cache
+c:\users\aasuk\onedrive\документы\visual studio 2013\Projects\Chapter2Projects\MultiplicationTables\obj\Debug\MultiplicationTables.exe
+c:\users\aasuk\onedrive\документы\visual studio 2013\Projects\Chapter2Projects\MultiplicationTables\obj\Debug\MultiplicationTables.pdb

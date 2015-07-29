@@ -1,0 +1,6 @@
+D:\Deploy\Chapter4Task\Chapter4Task\bin\Debug\Chapter4Task.exe.config
+D:\Deploy\Chapter4Task\Chapter4Task\bin\Debug\Chapter4Task.exe
+D:\Deploy\Chapter4Task\Chapter4Task\bin\Debug\Chapter4Task.pdb
+D:\Deploy\Chapter4Task\Chapter4Task\obj\Debug\Chapter4Task.csprojResolveAssemblyReference.cache
+D:\Deploy\Chapter4Task\Chapter4Task\obj\Debug\Chapter4Task.exe
+D:\Deploy\Chapter4Task\Chapter4Task\obj\Debug\Chapter4Task.pdb

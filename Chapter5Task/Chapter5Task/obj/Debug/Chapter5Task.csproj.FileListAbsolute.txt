@@ -1,0 +1,19 @@
+c:\users\aasukharev\documents\visual studio 2013\Projects\Chapter5Task\Chapter5Task\bin\Debug\Chapter5Task.exe.config
+D:\projects\Chapter5Task\Chapter5Task\obj\Debug\Chapter5Task.Form1.resources
+D:\projects\Chapter5Task\Chapter5Task\obj\Debug\Chapter5Task.Properties.Resources.resources
+D:\projects\Chapter5Task\Chapter5Task\obj\Debug\Chapter5Task.csproj.GenerateResource.Cache
+D:\projects\Chapter5Task\Chapter5Task\bin\Debug\Chapter5Task.exe.config
+D:\projects\Chapter5Task\Chapter5Task\bin\Debug\Chapter5Task.exe
+D:\projects\Chapter5Task\Chapter5Task\bin\Debug\Chapter5Task.pdb
+D:\projects\Chapter5Task\Chapter5Task\obj\Debug\Chapter5Task.exe
+D:\projects\Chapter5Task\Chapter5Task\obj\Debug\Chapter5Task.pdb
+D:\projects\Chapter5Task\Chapter5Task\obj\Debug\Chapter5Task.csprojResolveAssemblyReference.cache
+D:\Deploy\Chapter5Task\Chapter5Task\bin\Debug\Chapter5Task.exe.config
+D:\Deploy\Chapter5Task\Chapter5Task\obj\Debug\Chapter5Task.exe
+D:\Deploy\Chapter5Task\Chapter5Task\obj\Debug\Chapter5Task.pdb
+D:\Deploy\Chapter5Task\Chapter5Task\bin\Debug\Chapter5Task.exe
+D:\Deploy\Chapter5Task\Chapter5Task\bin\Debug\Chapter5Task.pdb
+D:\Deploy\Chapter5Task\Chapter5Task\obj\Debug\Chapter5Task.csprojResolveAssemblyReference.cache
+D:\Deploy\Chapter5Task\Chapter5Task\obj\Debug\Chapter5Task.Form1.resources
+D:\Deploy\Chapter5Task\Chapter5Task\obj\Debug\Chapter5Task.Properties.Resources.resources
+D:\Deploy\Chapter5Task\Chapter5Task\obj\Debug\Chapter5Task.csproj.GenerateResource.Cache

@@ -1,0 +1,47 @@
+c:\users\александр\documents\visual studio 2010\Projects\XMLTree_Threads\XMLTree_Threads\bin\Debug\XMLTree_Threads.exe
+c:\users\александр\documents\visual studio 2010\Projects\XMLTree_Threads\XMLTree_Threads\bin\Debug\XMLTree_Threads.pdb
+c:\users\александр\documents\visual studio 2010\Projects\XMLTree_Threads\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.Form1.resources
+c:\users\александр\documents\visual studio 2010\Projects\XMLTree_Threads\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.Properties.Resources.resources
+c:\users\александр\documents\visual studio 2010\Projects\XMLTree_Threads\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.csproj.GenerateResource.Cache
+c:\users\александр\documents\visual studio 2010\Projects\XMLTree_Threads\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.exe
+c:\users\александр\documents\visual studio 2010\Projects\XMLTree_Threads\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.pdb
+D:\C#\Projects 2010\XMLTree_Threads\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.exe
+D:\C#\Projects 2010\XMLTree_Threads\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.pdb
+D:\C#\Projects 2010\XMLTree_Threads\XMLTree_Threads\bin\Debug\XMLTree_Threads.exe
+D:\C#\Projects 2010\XMLTree_Threads\XMLTree_Threads\bin\Debug\XMLTree_Threads.pdb
+D:\C#\Projects 2010\XMLTree_Threads\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.csprojResolveAssemblyReference.cache
+D:\C#\Projects 2010\XMLTree_Threads\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.Form1.resources
+D:\C#\Projects 2010\XMLTree_Threads\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.Properties.Resources.resources
+D:\C#\Projects 2010\XMLTree_Threads\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.csproj.GenerateResource.Cache
+C:\Users\aasukharev\Desktop\XMLTree_Threads\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.exe
+C:\Users\aasukharev\Desktop\XMLTree_Threads\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.pdb
+C:\Users\aasukharev\Desktop\XMLTree_Threads\XMLTree_Threads\bin\Debug\XMLTree_Threads.exe
+C:\Users\aasukharev\Desktop\XMLTree_Threads\XMLTree_Threads\bin\Debug\XMLTree_Threads.pdb
+C:\Users\aasukharev\Desktop\XMLTree_Threads\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.Form1.resources
+C:\Users\aasukharev\Desktop\XMLTree_Threads\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.Properties.Resources.resources
+C:\Users\aasukharev\Desktop\XMLTree_Threads\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.csproj.GenerateResource.Cache
+C:\Users\aasukharev\Desktop\XMLTree_Threads\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.csprojResolveAssemblyReference.cache
+C:\Users\aasuk\Desktop\XMLTree_Threads\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.exe
+C:\Users\aasuk\Desktop\XMLTree_Threads\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.pdb
+C:\Users\aasuk\Desktop\XMLTree_Threads\XMLTree_Threads\bin\Debug\XMLTree_Threads.exe
+C:\Users\aasuk\Desktop\XMLTree_Threads\XMLTree_Threads\bin\Debug\XMLTree_Threads.pdb
+C:\Users\aasuk\Desktop\XMLTree_Threads\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.csprojResolveAssemblyReference.cache
+C:\Users\aasuk\Desktop\XMLTree_Threads\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.Form1.resources
+C:\Users\aasuk\Desktop\XMLTree_Threads\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.Properties.Resources.resources
+C:\Users\aasuk\Desktop\XMLTree_Threads\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.csproj.GenerateResource.Cache
+D:\projects\Chapter7FinalTask\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.exe
+D:\projects\Chapter7FinalTask\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.pdb
+D:\projects\Chapter7FinalTask\XMLTree_Threads\bin\Debug\XMLTree_Threads.exe
+D:\projects\Chapter7FinalTask\XMLTree_Threads\bin\Debug\XMLTree_Threads.pdb
+D:\projects\Chapter7FinalTask\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.csprojResolveAssemblyReference.cache
+D:\projects\Chapter7FinalTask\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.Form1.resources
+D:\projects\Chapter7FinalTask\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.Properties.Resources.resources
+D:\projects\Chapter7FinalTask\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.csproj.GenerateResource.Cache
+C:\Users\aasuk\Desktop\Chapter7FinalTask\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.exe
+C:\Users\aasuk\Desktop\Chapter7FinalTask\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.pdb
+C:\Users\aasuk\Desktop\Chapter7FinalTask\XMLTree_Threads\bin\Debug\XMLTree_Threads.exe
+C:\Users\aasuk\Desktop\Chapter7FinalTask\XMLTree_Threads\bin\Debug\XMLTree_Threads.pdb
+C:\Users\aasuk\Desktop\Chapter7FinalTask\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.csprojResolveAssemblyReference.cache
+C:\Users\aasuk\Desktop\Chapter7FinalTask\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.Form1.resources
+C:\Users\aasuk\Desktop\Chapter7FinalTask\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.Properties.Resources.resources
+C:\Users\aasuk\Desktop\Chapter7FinalTask\XMLTree_Threads\obj\x86\Debug\XMLTree_Threads.csproj.GenerateResource.Cache

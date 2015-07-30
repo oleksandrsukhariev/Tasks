@@ -1,0 +1,8 @@
+c:\users\aasuk\onedrive\документы\visual studio 2010\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\aasuk\onedrive\документы\visual studio 2010\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\aasuk\onedrive\документы\visual studio 2010\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\aasuk\onedrive\документы\visual studio 2010\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\WebPart9Task\WebApplication1\bin\WebApplication1.dll
+D:\WebPart9Task\WebApplication1\bin\WebApplication1.pdb
+D:\WebPart9Task\WebApplication1\obj\Debug\WebApplication1.dll
+D:\WebPart9Task\WebApplication1\obj\Debug\WebApplication1.pdb
